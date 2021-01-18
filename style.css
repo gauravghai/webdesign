@@ -4,6 +4,11 @@ body {
 a {
     text-decoration: none !important;   
 }
+h1 {
+    font-size: 50px;
+    line-height: 70px;
+    color: #0B132A
+}
 .a-style {
     font-style: normal;
     font-weight: normal;
@@ -31,4 +36,16 @@ a {
 }
 .sign-in:hover {
     color: #0B132A;
+}
+.hero_text {
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+}
+.hero_btn {
+background: #F53838;
+border-radius: 10px;
+font-size: 16px;
+line-height: 25px;
+color: #FFFFFF
 }
