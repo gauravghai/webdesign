@@ -57,3 +57,42 @@ color: #FFFFFF
     font-size: 20px;
     color: #4F5665;
 }
+.list-group-item,
+.list-group.list-group-flush {
+    border: none !important;
+}
+.plan-card {
+    border: 2px solid #DDDDDD !important;
+    box-sizing: border-box !important;
+    border-radius: 10px !important;
+}
+.plan-card:hover {
+    border: 2px solid #F53838 !important;
+    cursor: pointer;
+}
+.plan-card li {
+    color: #4F5665;
+    font-size: 14px;
+    line-height: 30px;
+}
+.plan-btn {
+    color: #F53838;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    border: 2px solid #F53838;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+.plan-card h5 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #0B132A;
+}
+.plan-sub-head {
+    color: #4F5665;
+    font-size: 16px;
+    line-height: 30px;
+}
