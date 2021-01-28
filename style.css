@@ -96,3 +96,8 @@ color: #FFFFFF
     font-size: 16px;
     line-height: 30px;
 }
+.clients .card {
+    border: 2px solid #DDDDDD;
+box-sizing: border-box;
+border-radius: 10px;
+}
