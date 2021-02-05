@@ -101,3 +101,36 @@ color: #FFFFFF
 box-sizing: border-box;
 border-radius: 10px;
 }
+.num-width  {
+    width: 33%;
+}
+.subscribe {
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.subscribe button {
+    background: #F53838;
+    border-radius: 10px;
+    border: none;
+}
+.footer {
+    background: #F8F8F8;
+}
+.f-text {
+    color: #4F5665;
+    font-size: 16px;
+}
+.footer a {
+    color: #4F5665;
+    font-size: 16px;
+}
+.subscribe {
+    position: relative;
+    top: 4em;
+    box-shadow: 0 0px 35px #00000029;
+}
+@media only screen and (min-width: 430px) {
+    .num-width  {
+        width: 60% !important;
+    }
+}
